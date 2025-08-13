@@ -14,7 +14,7 @@ This repository contains a complete internal security audit for **Botium Toys**,
 |---------|-------------|
 | [Scope, Goals & Risk Report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc) | Full assessment of assets, threats, and security posture |
 | [Controls & Compliance Checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36) | Evaluation of existing and missing controls and compliance best practices |
-| [Control Categories]([./control-categories.md](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)) | Definitions and classifications of control types and categories |
+| [Control Categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview) | Definitions and classifications of control types and categories |
 
 ## 👨‍💻 My Role
 
